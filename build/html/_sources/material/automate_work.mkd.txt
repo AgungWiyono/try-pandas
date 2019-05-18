@@ -1,0 +1,22 @@
+# Automate Work
+
+Salah satu penggunaan programming oleh orang-orang non -IT adalah
+untuk mengotomatisasi pekerjaan mereka. Mencatat file excel,
+melabeli email, menghapus logfile secara berkala, dsb.
+
+Sekarang kita akan mencoba menggunakan excel untuk memanipulasi
+data nilai siswa.
+
+## Hal yang perlu dipersiapkan
+
+1. Python3.5+
+1. Web Browser
+1. pandas
+   Merupakan sebuah package python untuk melakukan manipulasi data
+   dalam Data Science. Kita juga perlu menginstall beberapa package
+   sebagai perantara python dengan file excel. Umumnya adalah
+   openpyxl.
+1. Jupyter
+   Jupyter-Notebook digunakan untuk membantu visualisasi dalam
+   analisa data yang akan kita laksanakan. Tidak diperlukan jika
+   kita tidak ingin membuat visualisasi data tersebut.
